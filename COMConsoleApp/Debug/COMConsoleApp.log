@@ -1,0 +1,7 @@
+﻿  COMConsoleApp.cpp
+  DynamicLinking.cpp
+  ExportObjects.cpp
+  ExtendingObjects.cpp
+  Generating Code...
+     Creating library D:\Code\COMConsoleApp\Debug\COMConsoleApp.lib and object D:\Code\COMConsoleApp\Debug\COMConsoleApp.exp
+  COMConsoleApp.vcxproj -> D:\Code\COMConsoleApp\Debug\COMConsoleApp.exe
